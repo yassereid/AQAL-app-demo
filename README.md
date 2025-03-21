@@ -7,7 +7,7 @@
   <img src="Screenshot_1741043310.png" width="250">
   <img src="Screenshot_1741043318.png" width="250">
   <img src="Screenshot_1741043325.png" width="250">
-  <img src="Screenshot_17410433362.png" width="250">
+  <img src="Screenshot_1741043336.png" width="250">
 </p>   
 
 ## 📖 About  

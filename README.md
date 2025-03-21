@@ -1,12 +1,14 @@
 # 🚀 AQAL App Demo  
 
 ## 📱 Screenshots  
-![Screenshot 1](Screenshot_1741043296.png)  
-![Screenshot 2](Screenshot_1741043302.png)
-![Screenshot 3](Screenshot_1741043310.png)  
-![Screenshot 4](Screenshot_1741043318.png)  
-![Screenshot 5](Screenshot_1741043325.png)  
-![Screenshot 6](Screenshot_17410433362.png)    
+<p align="center">
+  <img src="Screenshot_1741043296.png" width="250">
+  <img src="Screenshot_1741043302.png" width="250">
+  <img src="Screenshot_1741043310.png" width="250">
+  <img src="Screenshot_1741043318.png" width="250">
+  <img src="Screenshot_1741043325.png" width="250">
+  <img src="Screenshot_17410433362.png" width="250">
+</p>   
 
 ## 📖 About  
 Aqal is a powerful property management app designed to simplify rent payments and tenant interactions. Tenants can easily pay their monthly rent, submit maintenance requests, and receive real-time updates and notifications. Stay informed and manage your rental experience effortlessly with Aqal!  

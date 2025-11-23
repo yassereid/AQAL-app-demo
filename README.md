@@ -74,5 +74,5 @@ Aqal is a powerful property management app designed to simplify rent payments an
 
 ## 📢 Stay Updated  
 The app will be available soon on:  
-- 📱 **Google Play Store**: *Coming Soon*  
+- 📱 **Google Play Store**: *Available now*  
 - 🍏 **Apple App Store**: *Coming Soon*  

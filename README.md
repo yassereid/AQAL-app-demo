@@ -19,7 +19,7 @@ Aqal is a powerful property management app designed to simplify rent payments an
 - 📢 Release coming soon!  
 
 ## 📥 Download APK 
-[Download](https://drive.google.com/file/d/1XeHerMC4MHS1-HJOfJIK_DvzVvUJMigf/view?usp=sharing)  
+[Download](https://play.google.com/store/apps/details?id=com.aqalmanagment.app)  
 
 ---
 
